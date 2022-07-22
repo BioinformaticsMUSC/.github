@@ -1,6 +1,6 @@
 The Bioinformatic core at MUSC 
 ==========================
-![](Logo_2.png)
+![](../Logo_2.png)
 
 ## The CORE
 
