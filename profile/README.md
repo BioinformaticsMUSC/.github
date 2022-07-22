@@ -1,7 +1,7 @@
 The Bioinformatic core at MUSC 
 ==========================
 
-![](../Logo_2.png)
+![](https://github.com/BioinformaticsMUSC/.github/blob/main/Logo_2.jpg)
 
 ## The CORE
 
